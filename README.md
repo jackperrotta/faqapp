@@ -1,6 +1,6 @@
 # Faqapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4. This is my first Angular 5 near production quality app.
 
 ## Development server
 
