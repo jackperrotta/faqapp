@@ -1,6 +1,8 @@
 # Faqapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4. This is my first Angular 5 near production quality app.
+This is my first Angular 5 near production quality app. Feel free to download and try it out, it utilizes local storage to save and delete the questions so no need to set up a backend to go with it.
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4. 
 
 ## Development server
 
